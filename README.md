@@ -4,8 +4,7 @@ TIC TAC TOE GAME BY ADITYA KUMAR RAJAK
 <DOCTYPE html>
 <html lang="en">
 <head>
-     <h1>Player1</h1><br>
-    <h1>Playet2</h1>
+    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tic Tac Toe GAME BY ADITYA KUMAR RAJAK</title>
